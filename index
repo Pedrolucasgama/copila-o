@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>SItes já criados até aqui</title>
+
+
+
+
+</head>
+<body bgcolor="Orange">
+<center>
+<h1>Atividades executadas e seus respectivos sites</h1>
+
+</center>
+<a href="file:///home/aluno/Downloads/ATIVIDADE%20(1).html">
+<p>Atividade de introdução ao HTML</p>
+</a>
+<a href="file:///home/aluno/Downloads/ATV2_TABELA.html">
+<p> Atividade sobre tabelas, usando animais</p>
+</a>
+<a href="file:///home/aluno/Downloads/atv01-03-23.html">
+<p>Atividade de listas, usando gostos musicais</p>
+</a>
+<a href="file:///home/aluno/.cache/.fr-LGfinJ/LoGoS/Logos.htm">
+<p>Atividade sebre tag, foi usada a header</p>
+
+</a>
+
+</body>
+
+
+
+
+
+
+
+</html>
